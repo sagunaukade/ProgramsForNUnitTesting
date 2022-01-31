@@ -1,0 +1,8 @@
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\bin\Debug\ProgramforNUnitTesting.exe.config
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\bin\Debug\ProgramforNUnitTesting.exe
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\bin\Debug\ProgramforNUnitTesting.pdb
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\obj\Debug\ProgramforNUnitTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\obj\Debug\ProgramforNUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\obj\Debug\ProgramforNUnitTesting.exe
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\obj\Debug\ProgramforNUnitTesting.pdb
+C:\Users\ganes\source\repos\ProgramforNUnitTesting\ProgramforNUnitTesting\obj\Debug\ProgramforNUnitTesting.csproj.AssemblyReference.cache
